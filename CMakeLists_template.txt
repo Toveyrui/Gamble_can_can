@@ -49,6 +49,7 @@ else ()
 endif ()
 
 include_directories(${includes})
+include_directories(bsp/can Users/header)
 
 add_definitions(${defines})
 

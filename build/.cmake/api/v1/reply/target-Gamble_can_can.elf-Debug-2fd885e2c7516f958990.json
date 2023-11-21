@@ -180,6 +180,14 @@
 				{
 					"backtrace" : 10,
 					"path" : "/Users/reiky/Documents/workspace/Gamble_can_can/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/reiky/Documents/workspace/Gamble_can_can/bsp/can"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/reiky/Documents/workspace/Gamble_can_can/Users/header"
 				}
 			],
 			"language" : "C",
@@ -825,6 +833,14 @@
 				{
 					"backtrace" : 10,
 					"path" : "/Users/reiky/Documents/workspace/Gamble_can_can/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/reiky/Documents/workspace/Gamble_can_can/bsp/can"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/reiky/Documents/workspace/Gamble_can_can/Users/header"
 				}
 			],
 			"language" : "ASM",
@@ -932,6 +948,14 @@
 				{
 					"backtrace" : 10,
 					"path" : "/Users/reiky/Documents/workspace/Gamble_can_can/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/reiky/Documents/workspace/Gamble_can_can/bsp/can"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/Users/reiky/Documents/workspace/Gamble_can_can/Users/header"
 				}
 			],
 			"language" : "CXX",

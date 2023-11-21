@@ -37,6 +37,8 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "/Users/reiky/Documents/workspace/Gamble_can_can/Middlewares/Third_Party/FreeRTOS/Source/include"
   "/Users/reiky/Documents/workspace/Gamble_can_can/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS"
   "/Users/reiky/Documents/workspace/Gamble_can_can/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F"
+  "/Users/reiky/Documents/workspace/Gamble_can_can/bsp/can"
+  "/Users/reiky/Documents/workspace/Gamble_can_can/Users/header"
   )
 
 # The set of dependency files which are needed:
